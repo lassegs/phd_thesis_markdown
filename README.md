@@ -3,7 +3,10 @@ The UiOified version of
 
 ![uio-template](http://i.imgur.com/MUNJFX4.png)
 
-This repository provides a framework for writing a PhD thesis in Markdown. I used the template for my PhD submission to University College London (UCL), but it should be straightforward to adapt suit other universities too.
+This repository was originally made by Tom Pollard. It provides a framework for writing a master or PhD thesis in Markdown.
+
+**From the original:** 
+I used the template for my PhD submission to University College London (UCL), but it should be straightforward to adapt suit other universities too.
 
 ## Citing the template
 
