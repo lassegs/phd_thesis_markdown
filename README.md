@@ -1,4 +1,4 @@
-The UIOified version of
+The UiOified version of
 # Template for writing a PhD thesis in Markdown [![Build Status](https://travis-ci.org/tompollard/phd_thesis_markdown.svg?branch=master)](https://travis-ci.org/tompollard/phd_thesis_markdown)  
 
 ![uio-template](http://i.imgur.com/MUNJFX4.png)
