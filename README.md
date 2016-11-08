@@ -1,7 +1,7 @@
 The UIOified version of
 # Template for writing a PhD thesis in Markdown [![Build Status](https://travis-ci.org/tompollard/phd_thesis_markdown.svg?branch=master)](https://travis-ci.org/tompollard/phd_thesis_markdown)  
 
-![uio-template](phd_thesis_markdown/style/UIO-template.png)
+![uio-template](http://i.imgur.com/MUNJFX4.png)
 
 This repository provides a framework for writing a PhD thesis in Markdown. I used the template for my PhD submission to University College London (UCL), but it should be straightforward to adapt suit other universities too.
 
