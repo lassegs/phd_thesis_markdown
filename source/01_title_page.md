@@ -11,18 +11,18 @@ and add the centred logo
     % to remove the UCL header logo
     %  \ThisULCornerWallPaper{1.0}{style/univ_logo.eps}
         
-        \vspace*{1cm}
+        \vspace*{0.3cm}
         
         \huge
         This is the title of the thesis
         
-        \vspace{1.5cm}
-       \includegraphics[width=0.4\textwidth]{style/univ_logo.eps}
+        \vspace{0.8cm}
+       \includegraphics[width=0.6\textwidth]{style/uio.png}
         
         \Large
         Firstname Surname
 
-        \vspace{1.5cm}
+        \vspace{0.8cm}
 
         \normalsize
         A thesis presented for the degree of\\
